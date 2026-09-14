@@ -1,10 +1,3 @@
-"""Offline Qwen3 flashcards. Requires only your existing llama-cpp-python.
-
-Put Qwen3-1.7B-Q8_0.gguf beside this script. Edit STUDY_NOTES below,
-then run: python qwen_flashcards.py
-One nonempty line = one self-contained fact. Answers are copied from notes.
-"""
-
 from __future__ import annotations
 
 import json

@@ -1,3 +1,4 @@
+"""Uses Qwen 3 1.7B parameters for the flash card generation"""
 from __future__ import annotations
 
 import json
